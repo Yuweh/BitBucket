@@ -13,6 +13,7 @@
 		90FE57801FC99D3C00D779D5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90FE577F1FC99D3C00D779D5 /* Assets.xcassets */; };
 		90FE57831FC99D3C00D779D5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90FE57811FC99D3C00D779D5 /* LaunchScreen.storyboard */; };
 		90FE578B1FC99FD600D779D5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90FE578A1FC99FD600D779D5 /* Model.swift */; };
+		90FE578D1FC9A06400D779D5 /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90FE578C1FC9A06400D779D5 /* View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		90FE57821FC99D3C00D779D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90FE57841FC99D3C00D779D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		90FE578A1FC99FD600D779D5 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		90FE578C1FC9A06400D779D5 /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				90FE57781FC99D3C00D779D5 /* AppDelegate.swift */,
 				90FE577A1FC99D3C00D779D5 /* ViewController.swift */,
 				90FE578A1FC99FD600D779D5 /* Model.swift */,
+				90FE578C1FC9A06400D779D5 /* View.swift */,
 				90FE577C1FC99D3C00D779D5 /* Main.storyboard */,
 				90FE577F1FC99D3C00D779D5 /* Assets.xcassets */,
 				90FE57811FC99D3C00D779D5 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90FE578D1FC9A06400D779D5 /* View.swift in Sources */,
 				90FE578B1FC99FD600D779D5 /* Model.swift in Sources */,
 				90FE577B1FC99D3C00D779D5 /* ViewController.swift in Sources */,
 				90FE57791FC99D3C00D779D5 /* AppDelegate.swift in Sources */,

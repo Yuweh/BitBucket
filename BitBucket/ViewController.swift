@@ -12,9 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       print("Hello BitBucket")
-
+        print("Hello BitBucket")
         print("Hello iOS App Development")
+        print("Hello Data Model")
+        print("Hello Views")
     }
 
 }
